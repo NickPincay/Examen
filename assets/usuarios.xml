@@ -1,0 +1,24 @@
+<Usuarios>
+    <usuario>
+        <nombres>Elkin Adrian Lopez Obrador</nombres>
+        <fechaNac>20-10-2000</fechaNac>
+        <correo>elkin@gmail.com</correo>
+        <estadoCivil>Soltero</estadoCivil>
+        <url>https://img.freepik.com/foto-gratis/chico-guapo-seguro-posando-contra-pared-blanca_176420-32936.jpg</url>
+    </usuario>
+    <usuario>
+        <nombres>Maria Fernanda Perez Gonzalez</nombres>
+        <fechaNac>15-05-1995</fechaNac>
+        <correo>maria.perez@hotmail.com</correo>
+        <estadoCivil>Casada</estadoCivil>
+        <url>https://img.freepik.com/foto-gratis/retrato-hermoso-mujer-joven-posicion-pared-gris_231208-10760.jpg</url>
+    </usuario>
+    <usuario>
+        <nombres>Juan Carlos Torres Martinez</nombres>
+        <fechaNac>08-08-1988</fechaNac>
+        <correo>juan.torres@outlook.com</correo>
+        <estadoCivil>Divorciado</estadoCivil>
+        <url>https://img.freepik.com/fotos-premium/hombre-veinte-anos-emocion-gesto-presentacion-producto-introduccion_1000823-253529.jpg</url>
+    </usuario>
+</Usuarios>
+
